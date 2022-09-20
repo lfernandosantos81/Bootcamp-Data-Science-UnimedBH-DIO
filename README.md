@@ -5,3 +5,4 @@ Também serão postados explicaçãoes sobre todos os arquivos
 
 ## Desafio_de_Projeto_Pandas.ipynb
 Arquivo relacionado ao desafio de projeto proposto pela professora Fernanda Santos das aulas 'Análise de dados com Python e Pandas'
+utilizando como data frame o arquivo AdventureWorks.xlxs
